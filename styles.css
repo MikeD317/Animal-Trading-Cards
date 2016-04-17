@@ -1,0 +1,23 @@
+/* add your CSS here */
+.italics {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.border {
+  border: 3px solid;
+  border-radius: 5px;
+  border-color: lightgray;
+  box-shadow: 1px 1px 1px lightgray;
+}
+
+div, h3, img {
+  padding: 10px;
+}
+
+img {
+  width: 300px;
+}
